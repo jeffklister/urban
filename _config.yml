@@ -1,12 +1,12 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
-baseurl:
+title: Castle Dev
+url: "https://www.castledevup.github.io"
+baseurl: "/urban"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: Criação Web e Marketing Digital.
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,9 +16,9 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Castle Dev
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    - https://github.com/castledevup
 
 collections:
   staff_members:
@@ -67,11 +67,8 @@ defaults:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
   - Twitter
   - YouTube
   - RSS

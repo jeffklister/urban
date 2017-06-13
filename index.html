@@ -1,29 +1,39 @@
 ---
-title: Urban
+title: Castle Dev
 ---
 
-<section class="hero diagonal">
+<section class="hero diagonal patterned">
 	<div class="container">
-		<h2 class="editable">We build websites</h2>
-		<p class="subtext editable">This is the <strong>Urban</strong> template from <a href="http://cloudcannon.com/">CloudCannon</a>. Urban is a strong foundation for the web presence of your agency.</p>
-		<p><a class="button alt" href="{{ site.baseurl }}/contact/">Contact Us</a></p>
+		<br>
+		<h2 class="editable">Criando uma presença digital de destaque na web.</h2>
+		<p class="subtext editable">A agência Castle Dev transforma soluções digitais em resultados reais.
+</p>
+		<p><a class="button alt" href="{{ site.baseurl }}/portfolio/">Conheça nossas soluções</a></p>
 	</div>
 </section>
 
-<section class="diagonal patterned">
+<section class="diagonal alternate">
+	<div class="container">
+		<p>O que fazemos</p>
+		<h1>Ajudamos pessoas à criarem uma <br> presença digital de destaque.</h1>
+	</div>
+</section>
+
+<section class="diagonal alternate">
 	<div class="container halves">
 		<div>
-			<h3 class="editable">Some of our work</h3>
-			<p class="editable">We take pride in our previous work and our happy customers. We cater to any sector to boost business and increase exposure.</p>
-			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">View Full Portfolio &rarr;</a></p>
+			<h3 class="editable">Criação de Sites</h3>
+			<p class="editable">
+				Criamos seu site com design moderno, acessível em várias telas, e que converta visitantes em clientes.
+			</p>
+			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">Saiba como criamos o seu site &rarr;</a></p>
 		</div>
 		<div>
-			<ul class="image-grid">
-				{% for client in site.clients limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
-				{% endfor %}
+			<ul class="image-list">
+				<li><img src="{{ site.baseurl }}/images/svg/webdev.svg"></li>
 			</ul>
 		</div>
+
 	</div>
 </section>
 
@@ -31,13 +41,49 @@ title: Urban
 	<div class="container halves">
 		<div>
 			<ul class="image-list">
-				<li><img src="{{ site.baseurl }}/images/cloudcannon-logo-blue.svg" width="250" style="margin-bottom: 40px;"></li>
-				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300"></li>
+				<li><img src="{{ site.baseurl }}/images/svg/branding.svg"></li>
 			</ul>
 		</div>
 		<div>
-			<h3 class="editable">Latest software, greatest perfomance</h3>
-			<p class="editable">As a new agency we get reap the benefits of the latest and greatest. We build our websites with the most up to date technology. This ensures your website is fast, efficient and reliable for many years.</p>
+			<h3 class="editable">UX Design e Identidade Visual</h3>
+			<p class="editable">
+				Design nos últimos padrões da web com logo, fotos, cores e tipografia com a cara da sua marca</p>
+				<p class="editable"><a href="{{ site.baseurl }}/portfolio/">Saiba mais como fazemos design&rarr;</a></p>
+		</div>
+	</div>
+</section>
+
+<section class="diagonal alternate">
+	<div class="container halves">
+
+		<div>
+			<h3 class="editable">Inbound Marketing</h3>
+			<p class="editable">
+				Criar conteúdo informativo que agrega valor para o usuário final é a chave para atrair e manter clientes
+			</p>
+			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">Como atrair mais clientes &rarr;</a></p>
+		</div>
+		<div>
+			<ul class="image-list">
+				<li><img src="{{ site.baseurl }}/images/svg/socialmedia.svg"></li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="diagonal patterned">
+	<div class="container halves">
+		<div>
+			<h3 class="editable">Nossos melhores resultados</h3>
+			<p class="editable">De blogs a lojas virtuais, a Castle tem a solução digital ideal para você.</p>
+			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">Ver mais projetos &rarr;</a></p>
+		</div>
+		<div>
+			<ul class="image-grid">
+				{% for client in site.clients limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
+				{% endfor %}
+			</ul>
 		</div>
 	</div>
 </section>

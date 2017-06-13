@@ -1,8 +1,8 @@
 ---
-title: The history of marketing
+title: O que é UX e qual sua importância
 categories:
-  - marketing
-author_staff_member: james
+  - marketing, ux design, usabilidade
+author_staff_member: Andre Defremont
 show_comments: true
 ---
 

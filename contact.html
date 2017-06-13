@@ -1,11 +1,11 @@
 ---
-title: Contact
-heading: Get in touch today
-subtitle: We'd love to help your business.
+title: Contato
+heading: Pronto para ter sua presença web?
+subtitle: Adoraríamos ouvir sobre o seu projeto.
 map:
   latitude: -45.8787605
   longitude: 170.5027976
-  address: "1 George Street, Dunedin, New Zealand"
+  address: "Senador Manoel Barata 1222, Belém PA"
   zoom: 13
 ---
 
@@ -17,23 +17,23 @@ map:
 
 			<div class="halves">
 				<div>
-					<label for="name">First Name</label>
+					<label for="name">Nome</label>
 					<input type="text" name="first-name" id="first-name" placeholder="John" />
 				</div>
 
 				<div>
-					<label for="name">Last Name</label>
+					<label for="name">Sobrenome</label>
 					<input type="text" name="last-name" id="last-name" placeholder="Doe" />
 				</div>
 			</div>
 
-			<label for="email">Email Address</label>
+			<label for="email">Email</label>
 			<input type="email" name="email" id="email" placeholder="john@example.com" required />
 
-			<label for="message">Message</label>
+			<label for="message">Mensagem</label>
 			<textarea name="message" id="message" placeholder="Hi There..."></textarea>
 
-			<input type="submit" value="Send Message" />
+			<input type="submit" value="Enviar mensagem" />
 		</form>
 	</div>
 </section>
@@ -45,7 +45,7 @@ map:
 <section class="diagonal">
 	<div class="container halves aligned-top">
 		<div>
-			<h3>Address</h3>
+			<h3>Endereço</h3>
 				<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 		</div>
 		<div>

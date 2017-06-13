@@ -1,8 +1,8 @@
 ---
-title: Definition of sales
+title: 7 Dicas Altamente Eficazes para melhorar o SEO do seu site
 categories:
-  - sales
-author_staff_member: anna
+  - SEO, website, link building
+author_staff_member: Matheus Seabra
 show_comments: true
 ---
 

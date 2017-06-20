@@ -4,9 +4,7 @@ title: Castle Dev
 
 <section class="hero diagonal">
 	<div class="container">
-		<br>
-		<h2 class="editable">Criando uma presença digital de destaque na web.</h2>
-		<p class="subtext editable">A agência Castle Dev transforma soluções digitais em resultados reais.
+		<h2 class="editable">Criando uma presença digital <br> de destaque na web</h2>
 </p>
 		<!-- <p><a class="button alt" href="{{ site.baseurl }}/portfolio/">Conheça nossas soluções</a></p> -->
 	</div>
@@ -41,17 +39,16 @@ title: Castle Dev
 
 <section class="diagonal alternate">
 	<div class="container halves">
-
+		<div>
+			<ul class="image-list">
+				<li><img src="{{ site.baseurl }}/images/svg/branding.svg"></li>
+			</ul>
+		</div>
 		<div>
 			<h2 class="editable">UX Design e Identidade Visual</h2>
 			<p class="editable">
 				Design nos últimos padrões da web com logo, fotos, cores e tipografia com a cara da sua marca</p>
 				<p class="editable"><a href="{{ site.baseurl }}/portfolio/">Saiba mais como fazemos design&rarr;</a></p>
-		</div>
-		<div>
-			<ul class="image-list">
-				<li><img src="{{ site.baseurl }}/images/svg/branding.svg"></li>
-			</ul>
 		</div>
 	</div>
 </section>
@@ -90,14 +87,32 @@ title: Castle Dev
 	</div>
 </section>
 
-<section class="diagonal hero">
-	<div class="text-container halves">
-		<div>
-			<h2 >Pronto para se destacar na web?</h2>
-		</div>
-		<div>
-			<p><a class="button alt" href="{{ site.baseurl }}/contact/">Entrar em contato</a></p>
-		</div>
+<section class="diagonal alternate">
+	<div class="container">
+		<h2>Pronto para ter uma presença de destaque na web? </h2>
+		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
+			<input type="hidden" name="_to" value="support@example.com" />
+			<input type="text" name="_gotcha" style="display: none;" />
 
+			<div class="halves">
+				<div>
+					<label for="name">Nome</label>
+					<input type="text" name="first-name" id="first-name" placeholder="Seu nome" />
+				</div>
+
+				<div>
+					<label for="name">Sobrenome</label>
+					<input type="text" name="last-name" id="last-name" placeholder="Doe" />
+				</div>
+			</div>
+
+			<label for="email">Email</label>
+			<input type="email" name="email" id="email" placeholder="john@example.com" required />
+
+			<label for="message">Mensagem</label>
+			<textarea name="message" id="message" placeholder="Hi There..."></textarea>
+
+			<input type="submit" value="Enviar mensagem" />
+		</form>
 	</div>
 </section>

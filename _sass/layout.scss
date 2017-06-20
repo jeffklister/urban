@@ -79,13 +79,41 @@ section {
 
 	&.hero {
 		color: #111;
-		background: linear-gradient(rgba(241, 169, 54, 0.8), rgba(241, 169, 54, 0.8)),url('../images/wov.png');
+		background: linear-gradient(rgba(241, 169, 54, 0.7), rgba(241, 169, 54, 0.7)),url('../images/wov.png');
 		text-align: left;
 		margin-top: -100px;
 		padding-top: 250px;
 
+
 		h2, p {
-			max-width: 90%;
+			max-width: 100%;
+		}
+
+		h2 {
+			font-size: 3.5rem;
+		}
+
+		p {
+			font-size: 1.8rem;
+			color: #111;
+		}
+
+		a:not(.button) {
+			color: #111;
+			font-style: italic;
+		}
+	}
+
+	&.hero2 {
+		color: #111;
+		background: linear-gradient(rgba(241, 169, 54, 0.7), rgba(241, 169, 54, 0.7)),url('../images/wov.png');
+		text-align: left;
+		margin-top: -100px;
+		padding-top: 220px;
+
+
+		h2, p {
+			max-width: 100%;
 		}
 
 		h2 {
@@ -110,15 +138,14 @@ section {
 
 
 .button {
-	padding: 8px 16px;
-	border-radius: 3px;
-	color: #111;
+	color: $brand-color;
 	text-decoration: none;
+	padding: 20px 30px;
+	border-radius: 3px;
+	transition: 0.2s ease-in-out;
+	border: 1px solid #111;
+	background: #111;
 	cursor: pointer;
-	border: 2px solid #111;
-	background-color: transparent;
-	text-decoration: none !important;
-	transition: .25s ease-in-out;
 
 	&:hover {
 		background: #111;
@@ -127,10 +154,7 @@ section {
 	}
 
 	&:active {
-		opacity: 1;
-		background: rgba(255, 255, 255, 0.1);
-		color: #fff;
-		transform: translateY(1px);
+		border-bottom: 2px solid #111;
 	}
 }
 
@@ -176,7 +200,7 @@ section {
 		margin: 20px;
 		border-radius: 5px;
 		text-align: left;
-		border: 1px solid $brand-color;
+		border: 1px solid transparent;
 		line-height: 0;
 
 		@media #{$tablet} {

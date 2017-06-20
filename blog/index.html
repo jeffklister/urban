@@ -5,7 +5,7 @@ heading: Blog
 subtitle: Dicas, ferramentas e tutoriais para enriquecer a presença digital do seu negócio.
 ---
 
-<section class="diagonal">
+<section class="diagonal alternate">
 	<div class="text-container">
 	    <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
 		<ul class="blog-posts">
@@ -32,20 +32,19 @@ subtitle: Dicas, ferramentas e tutoriais para enriquecer a presença digital do 
 {% endif %}
 
 
-<section class="diagonal hero">
+<section class="hero2 diagonal">
 	<div class="container">
-
-			<h2>Receba dicas semanais de como se destacar na web</h2>
-
-
-		<div class="halves">
-			<div>
-				<input type="text" name="first-name" id="first-name" placeholder="Seu email" />
+		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
+			<div class="halves">
+				<div>
+					<h2>Dicas semanais de como ter uma presença web</h2>
+				</div>
+				<div>
+					<input type="text" name="first-name" placeholder="Seu Email" />
+					<input type="submit" value="Quero receber!" />
+				</div>
 			</div>
-			<div>
-				<a  class="button alt" href="#">Receber Dicas</a>
-		</div>
-	</div>
 
-</div>
+		</form>
+	</div>
 </section>

@@ -78,8 +78,8 @@ section {
 	}
 
 	&.hero {
-		color: #ffffff;
-		background: $brand-color;
+		color: #111;
+		background: linear-gradient(rgba(241, 169, 54, 0.8), rgba(241, 169, 54, 0.8)),url('../images/wov.png');
 		text-align: left;
 		margin-top: -100px;
 		padding-top: 250px;
@@ -94,11 +94,11 @@ section {
 
 		p {
 			font-size: 1.8rem;
-			color: #fff;
+			color: #111;
 		}
 
 		a:not(.button) {
-			color: #ffffff;
+			color: #111;
 			font-style: italic;
 		}
 	}

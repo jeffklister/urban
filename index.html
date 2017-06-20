@@ -8,7 +8,7 @@ title: Castle Dev
 		<h2 class="editable">Criando uma presença digital de destaque na web.</h2>
 		<p class="subtext editable">A agência Castle Dev transforma soluções digitais em resultados reais.
 </p>
-		<p><a class="button alt" href="{{ site.baseurl }}/portfolio/">Conheça nossas soluções</a></p>
+		<!-- <p><a class="button alt" href="{{ site.baseurl }}/portfolio/">Conheça nossas soluções</a></p> -->
 	</div>
 </section>
 
@@ -21,7 +21,11 @@ title: Castle Dev
 
 <section class="diagonal alternate">
 	<div class="container halves">
-
+		<div>
+			<ul class="image-list">
+				<li><img src="{{ site.baseurl }}/images/svg/webdev.svg"></li>
+			</ul>
+		</div>
 		<div>
 			<h2 class="editable">Criação de Sites</h2>
 			<p class="editable">
@@ -29,11 +33,7 @@ title: Castle Dev
 			</p>
 			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">Saiba como criamos o seu site &rarr;</a></p>
 		</div>
-		<div>
-			<ul class="image-list">
-				<li><img src="{{ site.baseurl }}/images/svg/webdev.svg"></li>
-			</ul>
-		</div>
+
 
 
 	</div>
@@ -58,8 +58,11 @@ title: Castle Dev
 
 <section class="diagonal alternate">
 	<div class="container halves">
-
-
+		<div>
+			<ul class="image-list">
+				<li><img src="{{ site.baseurl }}/images/svg/socialmedia.svg"></li>
+			</ul>
+		</div>
 		<div>
 			<h2 class="editable">Inbound Marketing</h2>
 			<p class="editable">
@@ -67,16 +70,10 @@ title: Castle Dev
 			</p>
 			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">Como atrair mais clientes &rarr;</a></p>
 		</div>
-		<div>
-			<ul class="image-list">
-				<li><img src="{{ site.baseurl }}/images/svg/socialmedia.svg"></li>
-			</ul>
-		</div>
-
 	</div>
 </section>
 
-<section class="diagonal patterned">
+<section class="diagonal alternate">
 	<div class="container halves">
 		<div>
 			<h2 class="editable">Nossos melhores resultados</h2>
@@ -85,7 +82,7 @@ title: Castle Dev
 		</div>
 		<div>
 			<ul class="image-grid">
-				{% for client in site.clients limit: 4 %}
+				{% for client in site.clients limit: 3 %}
 					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
 				{% endfor %}
 			</ul>
@@ -93,7 +90,7 @@ title: Castle Dev
 	</div>
 </section>
 
-<section class="hero diagonal">
+<section class="diagonal hero">
 	<div class="text-container halves">
 		<div>
 			<h2 >Pronto para se destacar na web?</h2>

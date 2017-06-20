@@ -1,8 +1,8 @@
 ---
-name: Cause Template
-subtitle: Not for profit template for Jekyll
-external_url: https://github.com/CloudCannon/cause-jekyll-template
-image_path: /images/clients/cause.jpg
+name: Arten Bijou
+subtitle: A história de como ajudamos uma franco-brasileira a vender bijouterias da Amazônia online.
+external_url: http://defremont.tk/artenbijou/
+image_path: /images/clients/artenbijou.png
 ---
 
 Not for profit themed template for Jekyll. Browse through a [live demo](#TODO).

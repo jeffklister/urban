@@ -1,0 +1,17 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg">
+ <title>Flow Stack</title>
+
+ <desc>Created with Sketch.</desc>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="602" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill-rule="evenodd" fill="none">
+   <g stroke="null" id="svg_2" fill="#000000">
+    <path stroke="null" id="svg_3" d="m73.285713,378.346149l0,0l-37.785713,0l0,-223.846149l453.428558,0l0,33.576922l37.785713,0l0,33.576922l37.785713,0l0,223.846149l-453.428558,0l0,-33.576922l-37.785713,0l0,-33.576922zm0,5.596154l421.940464,0l0,-195.865381l-6.297619,0l0,190.269227l-415.642845,0l0,5.596154zm37.785713,33.576922l421.940464,0l0,-195.865381l-6.297619,0l0,190.269227l-415.642845,0l0,5.596154z"/>
+   </g>
+  </g>
+ </g>
+</svg>

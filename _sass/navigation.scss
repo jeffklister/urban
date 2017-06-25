@@ -1,6 +1,6 @@
 .nav-open {
 	header {
-		background: #444;
+		background: #111;
 		z-index: 10;
 
 		@media #{$mid-point} {
@@ -13,6 +13,10 @@
 		border: 0;
 
 		a {
+			font-family: 'Josefin Sans', sans-serif;
+	        font-weight: 400;
+			font-size: 1em;
+			color: $brand-color;
 			display: block;
 		}
 
@@ -28,8 +32,7 @@
 }
 
 nav {
-	text-transform: uppercase;
-	font-size: 0.8em;
+	
 	width: 100%;
 
 	ul {
@@ -38,7 +41,13 @@ nav {
 	}
 
 	li {
+		font-family: 'Josefin Sans', sans-serif;
+	    font-weight: 600;
 		display: block;
+	}
+
+	a {
+		font-size: 1em;
 	}
 
 	@media #{$mid-point} {
@@ -59,7 +68,7 @@ nav {
 		color: #111;
 		transition: 0.2s ease-in-out;
 		display: none;
-		font-size: 1rem;
+		font-size: 1em;
 
 		@media #{$mid-point} {
 			border-bottom: 2px solid rgba(255, 255, 255, 0);

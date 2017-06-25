@@ -1,5 +1,6 @@
 .container,
 .text-container {
+
 	margin: 0 auto;
 	position: relative;
 	padding: 0 20px;
@@ -10,6 +11,7 @@
 	text-align: center;
 }
 .text-container {
+
 	max-width: 1000px;
 }
 
@@ -79,7 +81,7 @@ section {
 
 	&.hero {
 		color: #111;
-		background: linear-gradient(rgba(241, 169, 54, 0.7), rgba(241, 169, 54, 0.7)),url('../images/wov.png');
+		background: linear-gradient(rgba(241, 169, 54, 0.8), rgba(241, 169, 54, 0.8)),url('../images/wov.png');
 		text-align: left;
 		margin-top: -100px;
 		padding-top: 250px;
@@ -106,10 +108,10 @@ section {
 
 	&.hero2 {
 		color: #111;
-		background: linear-gradient(rgba(241, 169, 54, 0.7), rgba(241, 169, 54, 0.7)),url('../images/wov.png');
+		background: linear-gradient(rgba(241, 169, 54, 0.8), rgba(241, 169, 54, 0.8)),url('../images/wov.png');
 		text-align: left;
 		margin-top: -100px;
-		padding-top: 220px;
+		padding-top: 180px;
 
 
 		h2, p {
@@ -134,28 +136,35 @@ section {
 	&.alternate {
 		background: #eee;
 	}
+
+	&.alternate img {
+		padding-bottom: 25px;
+	}
 }
 
 
 .button {
-	color: $brand-color;
+
+	border: 2px solid #111;
+	background: transparent;
+	color: #111;
+	font-size: 21px;
+	font-weight: bold;
 	text-decoration: none;
 	padding: 20px 30px;
 	border-radius: 3px;
 	transition: 0.2s ease-in-out;
-	border: 1px solid #111;
-	background: #111;
+
 	cursor: pointer;
 
 	&:hover {
+		text-decoration: none;
 		background: #111;
 		color: $brand-color;
 		transition: .25s ease-in-out;
 	}
 
-	&:active {
-		border-bottom: 2px solid #111;
-	}
+	
 }
 
 .halves {

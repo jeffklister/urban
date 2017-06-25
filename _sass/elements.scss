@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400|Lato:300,700');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,600|Lato:400,700');
 
 html {
 	background: $html-background-color;
@@ -11,10 +11,17 @@ html, body {
 
 body {
 	font-family: 'Lato', sans-serif;
+	font-weight: 400;
 }
 
-h1, h2, h3, h4 {
+h1, h2 {
 	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 600;
+}
+
+h3, h4 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 400;
 }
 
 a {
@@ -23,6 +30,7 @@ a {
 }
 
 a:hover {
+	color: $brand-color;
 	text-decoration: underline;
 }
 

@@ -62,17 +62,22 @@
 
 					<ul class="footer-links">
 						<li>
-							<h2>{{ site.data.company.title }}</h2>
+						   <h2>{{ site.data.company.title }}</h2>
 						</li>
-						<li>{{ site.data.company.description }}</li>
-						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Subscribe with RSS</a></li>
+						
+					
+						<li><a mailto="castledevup@gmail.com">{{ site.data.company.contact_email_address }}</a> </li>
+					    <li><p>{{ site.data.company.contact_phone_number }}</p> </li>
+						 <li><p>{{ site.data.company.address }}</p> </li>
+
+						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Se inscreva no nosso feed!</a></li>
 					</ul>
 				</div>
 			</div>
 
 			<div class="legal-line">
 				<p class="container">
-					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }}
+					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }} Todos os direitos reservados.
 				</p>
 			</div>
 		</footer>

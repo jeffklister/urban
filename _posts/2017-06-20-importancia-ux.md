@@ -1,20 +1,17 @@
 ---
 published: true
-image: 'https://uxchecklist.github.io/img/icons128/Blog.png'
 layout: post
 date: 13/05/2017
-tags:
-  - ux
-  - user experience
-  - design
-  - redesign
-share-img: 'http://impatientdesigner.com/images/what-exactly-is-ux-design-01.png'
-bigimg:
-  - /img/uxoquee.png: O que é UX
-show-share: true
-show-subscribe: true
 title: O que é UX e qual a sua importância?
+categories:
+- ux
+- user experience
+- design
+- redesign
+author_staff_member: Andre Defremont
+show_comments: true
 ---
+
 > User Experience (UX) é um dos aspectos mais importantes de um projeto, mas nem sempre é visto assim. Design visual rouba a maior parte da atenção do usuário. O design visual é o rosto da sua marca. É o que as pessoas vêem e isso influencia diretamente na forma como os clientes pensam sobre você ou sua empresa. No entanto, você não pode ter um design visual sem um **plano**. É aqui que entra o UX.
 
 

@@ -1,6 +1,5 @@
 .container,
 .text-container {
-
 	margin: 0 auto;
 	position: relative;
 	padding: 0 20px;
@@ -10,12 +9,14 @@
 .text-center {
 	text-align: center;
 }
-.text-container {
 
+.text-container {
+	min-width: 300px;
 	max-width: 1000px;
 }
 
 .container {
+	min-width: 300px;
 	max-width: 1000px;
 }
 
@@ -100,10 +101,6 @@ section {
 			color: #111;
 		}
 
-		a:not(.button) {
-			color: #111;
-			font-style: italic;
-		}
 	}
 
 	&.hero2 {
@@ -162,7 +159,7 @@ section {
 		transition: .25s ease-in-out;
 	}
 
-	
+
 }
 
 .halves {

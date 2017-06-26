@@ -1,10 +1,12 @@
 ---
 title: Aprenda a atrair mais clientes através do Inbound Marketing
 categories:
-  - marketing, conteudo
+  - marketing de conteudo
+  - funil de vendas
 author_staff_member: Matheus Seabra
 show_comments: true
 ---
+
 
 O termo "Inbound Marketing" vêm sendo frequentemente usado como uma nova forma de marketing, mas ainda há uma confusão sobre o que o seu conceito significa, quais os benefícios e como pode ser aplicado. Qual a diferença entre Marketing Digital e Inbound Marketing? Por quê é um conceito que se encaixa bem num plano de marketing?
 
@@ -17,7 +19,7 @@ Enquanto posssa parecer um conceito simples de ser entendido, é duro de colocar
 
 Vamos lá?
 
-
+![Conteúdo Único e exclusivo]({{ site.baseurl }}/images/inbound-marketing.jpg)
 
 # O que é Inbound Marketing?
 
@@ -59,6 +61,9 @@ Devido as mudanças no mercado, o Inbound Marketing se provou um método eficien
 - Ganha a atenção e confiança das pessoas de forma natural, sem interromper ninguém
 
 <br>
+
+
+![Conteúdo Único e exclusivo]({{ site.baseurl }}/images/conteudo-original.jpg)
 
 
 
@@ -127,22 +132,41 @@ com que seu conteúdo seja descoberto por futuros visitantes.
 ## 2. Converter
 
 Nessa segunda etapa, a meta é guiar as pessoas que acharam o seu conteúdo interessante á se tornarem leads, 
-coletando dados sobre aquela pessoa.
+coletando informações sobre essas pessoas. 
 
-O que podemos alcançar com o uso dos seguintes elementos no seu site: 
+Esse processo de coletar informações sobre seus visitantes é também chamada de 
+"Geração de Leads".
+
+## Gerando leads
+
+Para gerar leads, fazemos o uso dos seguintes elementos em um site: 
 
 - Botões (call-to-actions)
 - Formulários
 - Banners
-- Barras laterais 
+- Menus Laterais 
+
+![Exemplo de geração de lead]({{ site.baseurl }}/images/formulario-coleta-lead.png)
+
+Acima temos um exemplo de formulário para geração de leads que usamos aqui na Castle.
 
 É importante fazer com que esses elementos tenham um certo destaque no site,
 pois sem esses elementos, não seria possível coletar as informações dos usuários.
+
+Verifique que os formulários e botões estejam funcionando corretamente e que estejam levando
+usuários para o lugar certo.
 
 Lembre-se: o objetivo final é incentivar e facilitar para que o seu público complete a ação desejada. 
 
 
 ## 3. Fechar
+
+Nessa etapa, seus vistantes já tem noção do seu negócio e de seus serviços, porém
+a maioria das leads ainda não estão prontas para adquirir seus produtos ou serviços.
+
+Fazendo uso de algumas ferramentas, podemos avançar nosso público pelo fúnil de vendas,
+checando que estamos fechando vendas com os clientes certos na hor certa.
+
 
 ## 4. Engajar
 

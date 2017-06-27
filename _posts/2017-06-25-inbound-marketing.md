@@ -7,7 +7,7 @@ author_staff_member: Matheus Seabra
 show_comments: true
 ---
 
-O relacionamentos entre empresas e consumidores vêm evoluindo muito nos últimos anos. As pessoas sabem que são "marketeadas" pela mídia. Consequentemente, empresas e pequenos empreendedores estão tendo que se adpatar a nova realidade do mercado, respondendo de forma correspondente.
+O relacionamento entre empresas e consumidores vêm evoluindo muito nos últimos anos. As pessoas sabem que são "marketeadas" pela mídia. Consequentemente, empresas e pequenos empreendedores estão tendo que se adpatar a nova realidade do mercado, respondendo de forma correspondente.
 
 O termo "Inbound Marketing" vêm sendo frequentemente usado como uma nova forma de Marketing, mas ainda há uma confusão sobre o que o seu conceito significa, quais os benefícios e como pode ser aplicado.
 
@@ -17,28 +17,39 @@ Enquanto possa parecer um conceito simples de ser entendido, colocar em prática
 
 Nesse post, vamos explorar mais sobre o que é o Inbound Marketing, como funciona e maneiras de como implementar esse tipo de marketing no seu negócio.
 
-<!-- Desde o lançamento do livro "Inbound Marketing: seja encontrado usando o Google, mídias sociais e blogs”, de Brian Halligan e Dharmesh Shah. O Inbound Marketing conquistou seu lugar na comunidade empreendedora, e todos os dias cada vez mais empresas e pequenos negócios estão utilizando essa nova forma de Marketing para se posicionarem como autoridade na indústria, atrair mais clientes e gerar mais resultados. -->
-
 Vamos lá?
+
+
+![Conteúdo Único e exclusivo]({{ site.baseurl }}/images/conteudo-original.jpg)
 
 
 # O que é Inbound Marketing?
 
 <br>
 
+ O conceito de Inbound Marketing surgiu na América do Norte, e se popularizou com o lançamento do livro "Inbound Marketing: seja encontrado usando o Google, mídias sociais e blogs”, de Brian Halligan e Dharmesh Shah. 
+ 
+<!-- O Inbound Marketing conquistou seu lugar na comunidade empreendedora, e todos os dias cada vez mais empresas e pequenos negócios estão utilizando essa nova forma de Marketing para se posicionarem como autoridade na indústria, atrair mais clientes e gerar mais resultados. -->
 
-Essencialmente, Inbound Marketing é fazer com que seu negócio seja encontrado
-pelo seu público, para que então você os guie para torná-los uma lead, para que então depois de leads virem clientes.
+Traduzido para o português como Endo Marketing ou Marketing de Atração, o aspecto principal do Inbound Marketing é fazer com que seu negócio seja encontrado pelo seu público, para que então você os guie para torná-los uma lead, para que então depois de leads virem clientes
+
+## Mas o que é uma lead?
+
+Uma lead basicamente significa um contato de email do seu visitante na sua lista de email-marketing.
 
 A abordagem Inbound foca em ganhar a atenção e confiança das pessoas,
-por meio da criação de conteúdo que realmente eduque e seja compartilhado entre o seu público, resultando em um interesse
+por meio da criação de conteúdo que realmente eduque e seja compartilhado entre o seu público.
+
+Em outras palavras, o seu público ideal é atraído para o seu site ou blog para então se desenvolver um relacionamento com essas pessoas por meio da criação de conteúdo específico para elas, resultando em um interesse
 natural das pessoas pelo seu produto ou serviço.
+
+## A essência do Inbound Marketing é facilitar com que o seu negócio seja achado por seu público
+
+Devido as mudanças no mercado, essa forma de Marketing se provou um método eficiente para se tornar autoridade dentro de um mercado,
+atrair mais clientes e gerar mais resultados.
 
 É uma abordagem que vai justamente contra a forma de Marketing tradicional, chamada também de "Outbound Marketing",
 onde a mensagem é única para todos e há pouco envolvimento individual.
-
-Devido as mudanças no mercado, o Inbound Marketing se provou um método eficiente para se tornar autoridade dentro de um mercado,
-atrair mais clientes e gerar mais resultados.
 
 Para deixar claro as diferenças entre essas duas formas de Marketing, separei aqui as principais diferenças:
 
@@ -68,29 +79,40 @@ Para deixar claro as diferenças entre essas duas formas de Marketing, separei a
 
 <br>
 
+# Benefícios do Inbound
 
-![Conteúdo Único e exclusivo]({{ site.baseurl }}/images/conteudo-original.jpg)
+<br>
 
+A abordagem de marketing Inbound é muito efetiva pois tem tudo haver com adicionar um "toque humano"
+nas interações entre público e marca, por meio de ferramentas de marketing digital como conteúdo, pesquisa e análise de métricas, como também o feedback das pessoas nas redes sociais.
+
+- Cria laços mais duradouros com pessoas
+
+- Alcança o público certo na hora certa
+
+- Possibilidade de alcançar novos públicos e mercados
+
+- Posiciona a marca como autoridade na Mercado
+
+- Atua como um investimento e não um custo
+
+- Maior custo-benefício em coparação com a forma tradicional (Outbound)
+
+<br>
 
 
 # Inbound Marketing em 5 passos
 
 <br>
-
-Até aqui vimos o contexto do Inbound no mercado, quais os conceitos por trás dessa abordagem e seus benefícios.
-Agora vamos falar sobre como implementar essa estratégia na prática.
-
-Já sabemos que o jeito Inbound de se fazer marketing tem tudo haver
+Até agora, já sabemos que o jeito Inbound de se fazer marketing tem tudo haver
 com facilitar que as pessoas achem o seu negócio online, usando
 táticas do marketing digital para alcançar pessoas que já estão pesquisando, aprendendo e comprando no seu setor de mercado.
 
-A meta de uma campanha de Inbound Marketing de sucesso é aumentar o alcançe para trazer o público certo, gerando mais leads, conversões e vendas.
+O processo do Inbound Marketing basicamente pode ser divido em 5 passos: Atrair, Converter, Fechar, Engajar e Analisar. 
 
-Dividi o processo em 5 etapas para facilitar o compreendimento:
+Para facilitar o entendimento, vamos explorar cada etapa em detalhe a seguir:
 
 ## 1. Atrair
-
-Como dizem na comunidade de online marketing, "Conteúdo é Rei".
 
 Atrair o público certo ao seu site é a chave para ter uma estratégia Inbound de sucesso.
 
@@ -100,6 +122,8 @@ Você pode atrair seu público por meio da criação de:
 - Páginas web ricas em palavras-chave relacionadas ao nicho
 - Perfis nas redes sociais que engajem com o público
 
+Como dizem na comunidade de online marketing, "Conteúdo é Rei".
+
 Criar conteúdo denso sobre assuntos que sejam relevantes para o seu público é a chave para
 ter uma estratégia de inbound marketing de sucesso.
 
@@ -107,7 +131,7 @@ Atraia o seu público ideal criando conteúdo único e informativo que foi espec
 
 Uma das coisas mais importantes a se descobrir é:
 
-## Qual tipo de conteúdo meu público gosta de consumir?
+## Qual tipo de conteúdo o meu público gosta?
 
 Ao saber os tipos de conteúdo que um determinado público prefere, podemos
 então ter uma noção melhor de como atender as necessidades daquelas pessoas.
@@ -124,7 +148,7 @@ Felizmente, não é preciso criar todos os tipos de conteúdo. Descubra qual tip
 prefere, e foque em criar algo de qualidade e densidade de informação nesses tipos.
 
 
-## Faça com que seja fácil para o seu público lhe encontrar
+## Faça com que seja fácil para o seu público encontrar seu negócio
 
 Além de criar o contéudo em si, é importante também verificar que tudo esteja sendo otimizado para mecanismos de busca
 como o Google (SEO), pois essa otimização será a ponte que interliga o seu conteúdo e o seu público.
@@ -137,24 +161,34 @@ com que seu conteúdo seja descoberto por futuros visitantes.
 
 ## 2. Converter
 
-Nessa segunda etapa, a meta é guiar as pessoas que acharam o seu conteúdo interessante á se tornarem leads,
-coletando informações sobre essas pessoas.
+Na etapa de conversão, a meta é guiar as pessoas que acharam o seu conteúdo interessante á se tornarem leads.
 
-Esse processo de coletar informações sobre seus visitantes é também chamada de
+Nesse sentido, o ato de "converter" o visitante em uma lead significa que essa pessoa irá inserir seu email em troca de um benefício, esse benefício pode ser oferecido por meio de:
+
+- Ebooks
+- Acesso á uma área de membros no site/blog com conteúdo exclusivos
+- Produtos físicos relacionados ao seu nicho 
+
+O benefício que é ofericido em troca da informação de contato dos seus visitantes pode ser traduzido do Inglês como "Imã de Lead".
+
+Esse processo de coletar informações sobre seus visitantes em troca de um benefício é também chamado de
 "Geração de Leads".
 
-## Gerando leads
+## Transformando visitantes em leads
 
-Para gerar leads, fazemos o uso dos seguintes elementos em um site:
+Para converter visitantes em leads, fazemos o uso dos seguintes elementos em um site:
 
 - Botões (call-to-actions)
 - Formulários
 - Banners
 - Menus Laterais
 
+São nesses elementos em que você deve por o seu benefíco ou "Imã de Lead", que podem se posicionar em diferentes lugares do site.
+
 ![Exemplo de geração de lead]({{ site.baseurl }}/images/formulario-coleta-lead.png)
 
-Acima temos um exemplo de formulário para geração de leads que usamos aqui na Castle.
+Acima temos um exemplo de Oferta que usamos aqui na Castle. Em troca do email do nosso público, oferecmos uma 
+newsletter semanal com dicas de como nossa audiência pode melhora sua presença digital.
 
 É importante fazer com que esses elementos tenham um certo destaque no site,
 pois sem esses elementos, não seria possível coletar as informações dos usuários.
@@ -164,26 +198,49 @@ usuários para o lugar certo.
 
 Lembre-se: o objetivo final é incentivar e facilitar para que o seu público complete a ação desejada.
 
+## 3. Engajar
 
-## 3. Fechar
 
 Nessa etapa, seus vistantes já tem noção do seu negócio e de produtos ou serviços, porém
-a maioria dessas leads ainda não estão prontas para adquirir seus produtos ou serviços ainda.
+a maioria dessas pessoas ainda não estão prontas para adquirir seus produtos ou serviços.
 
-Fazendo uso de algumas ferramentas de marketing, podemos avançar nosso público pelo fúnil de vendas,
-checando que estamos fechando vendas com os cliente certo na hora certa, algumas dessas ferramentas são:
+Por essa razão existe a etapa de engajamento dessas leads, as guiando mais a fundo na jornada de compra.
 
-- Pontuação de leads
+Algumas formas de engajar leads:
 
-- Segmentação de leads: segmentar listas de e-emails coletados automaticamente para se relacionar com grupos específico
+- Nutrição de leads
 
-- Nutrição de leads: continue os informando educando até o fim do fúnil de vendas
+  Significa em criar um relacionamento duradouro por meio da educação e informação de leads. Essa abordagem resulta nas leads tendo suas dúvidas e problemas em relação aos produtos e serviços sendo resolvido pelo seu negócio, consequentemente gerando mais resultados.
 
-- Email Marketing: 
+- Email Marketing
 
-- Integração com CRM
+  Nas últimas décadas, a forma que as pessoas usam o email evoluiu bastante, fazendo com que o Email Marketing se mostrasse um canal de comunicação com grande retorno de investimento (ROI).
 
-## 4. Engajar
+  Além disso, hoje existem diversas ferramentas de email marketing que permitem usuários automatizar e segmentar emails, facilitando muito o trabalho
+  de qualquer negócio que queria começar a fazer marketing por esse canal.
+
+     
+
+
+## 4. Fechar
+
+Todas os esforços para a atração, conversão e engajamento de leads atuam em conjunto para 
+levar seu público a próxima da jornada de compra: fechar as vendas.
+
+Fazendo uso de algumas ferramentas de marketing, podemos avançar nosso público pela jornada de compra,
+sempre verificando que estamos fechando vendas com os cliente certo na hora certa, algumas dessas ferramentas são:
+
+- Pontuação de leads: pontuar as ações das leads para que se possa ter uma noção de seu perfil e nível de interesse
+
+- Segmentação de leads: segmentar listas de e-emails coletados automaticamente para se relacionar com grupos específicos
+
+- Nutrição de leads: continuar informando educando as leads até o fim da jornada de compra
+
+- Email Marketing: enviar emails na hora ideal para as leads
+
+- Integração com CRM: otimização do processo da jornada de compra
+
+
 
 ## 5. Analisar
 
@@ -216,19 +273,4 @@ Ou seja, quando o público se torna fã do seu negócio.
 Mídias pagas servem como uma maneira de promover conteúdo e aumentar a exposição do seu negócio, também lhe ajudando a ganhar mais tráfego orgânico. Fontes de tráfego pago incluem anúncios PPC (pago-por-clique) como Google AdWords, Facebook AdWords e etc.
 
 
-# 5 Benefícios do Inbound
 
-<br>
-
-A abordagem de marketing Inbound é muito efetiva pois tem tudo haver com adicionar um "toque humano"
-nas interações entre público e marca, por meio de ferramentas de marketing digital como conteúdo, pesquisa e análise de métricas, como também o feedback das pessoas nas redes sociais.
-
-- Cria laços mais duradouros com pessoas
-
-- Alcança o público certo na hora certa
-
-- Possibilidade de alcançar novos públicos e mercados
-
-- Posiciona a marca como autoridade na Mercado
-
-- Custo-benefício em coparação com a forma tradicional

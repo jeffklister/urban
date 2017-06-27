@@ -186,11 +186,11 @@ Para converter visitantes em leads, fazemos o uso dos seguintes elementos em um 
 - Banners
 - Menus Laterais
 
-São nesses elementos em que você deve por o seu benefíco ou "Imã de Lead", que podem se posicionar em diferentes lugares do site.
+São nesses elementos em que você deve por o seu benefícios ou "Imã de Lead", que podem se posicionar em diferentes lugares do site.
 
 ![Exemplo de geração de lead]({{ site.baseurl }}/images/formulario-coleta-lead.png)
 
-Acima temos um exemplo de Oferta que usamos aqui na Castle. Em troca do email do nosso público, oferecmos uma
+Acima temos um exemplo de oferta que usamos aqui na Castle. Em troca do email do nosso público, oferecemos uma
 newsletter semanal com dicas de como nossa audiência pode melhora sua presença digital.
 
 É importante fazer com que esses elementos tenham um certo destaque no site,

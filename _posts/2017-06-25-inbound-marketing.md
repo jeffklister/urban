@@ -3,6 +3,7 @@ title: Aprenda a atrair mais clientes através do Inbound Marketing
 categories:
   - marketing de conteudo
   - funil de vendas
+permanlink: '/inbound-marketing'  
 author_staff_member: Matheus Seabra
 show_comments: true
 ---

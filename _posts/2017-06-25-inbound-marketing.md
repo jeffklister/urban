@@ -1,9 +1,12 @@
 ---
 title: Aprenda a atrair mais clientes através do Inbound Marketing
+date: 27/06/2017
 categories:
-  - marketing de conteudo
-  - funil de vendas
-permalink: "/inbound-marketing/" 
+  - Marketing de conteudo
+  - Funil de vendas
+  - Leads
+
+permalink: "blog/inbound-marketing/"
 author_staff_member: Matheus Seabra
 show_comments: true
 ---
@@ -153,8 +156,8 @@ Descubra qual tipo de conteúdo seu público prefere, e foque em criar algo de q
 
 ## Faça com que seja fácil para o seu público encontrar seu negócio
 
-Além de criar o contéudo em si, é importante também verificar que tudo esteja sendo otimizado para mecanismos de busca
-como o Google (SEO), pois essa otimização será a ponte que interliga o seu conteúdo e o seu público.
+Além de criar o contéudo em si, é importante também verificar que tudo esteja sendo [otimizado para mecanismos de busca
+como o Google](http://castledev.tk/urban/blog/SEO/) (SEO), pois essa otimização será a ponte que interliga o seu conteúdo e o seu público.
 
 Isso vale tanto para os posts, como também para páginas web no seu site também.
 

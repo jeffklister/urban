@@ -1,16 +1,27 @@
 ---
 title: Agência
-heading: Quem somos
-subtitle: Conheça a equipe por trás da Castle Dev
+heading: Quem é a Castle
+subtitle: Conheça a equipe que compõe a agência CastleDev
 ---
+
+<section class="hero-black diagonal text-center">
+	<div class="container">
+			<h2>Nossa missão</h2>
+			<p>Descrição sobre como pensamos como empresa, quais nossos objetivos e metas etc</p>
+</div>
+</section>
 
 <section class="diagonal alternate">
 	<div class="container">
-		<ul class="image-grid">
+
+		<div class="halves">
+
 			{% for member in site.staff_members %}
-				<li>{% include staff-member.html member=member %}</li>
+			<div>
+					{% include staff-member.html member=member %}
+			</div>
+
 			{% endfor %}
-			<li class="filler"></li>
-		</ul>
+		</div>
 	</div>
 </section>

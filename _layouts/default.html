@@ -27,6 +27,7 @@
 	{% endif %}
 </head>
 	<body>
+
 		<header>
 			<div class="container">
 				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logoC.png" alt="Castle Dev Logo" ></a>
@@ -37,7 +38,6 @@
 
 		<footer class="diagonal">
 			<div class="container">
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Update Footer Sections</a></p>
 
 				<div class="footer-columns">
 					{% for column in site.data.footer %}
@@ -68,8 +68,6 @@
 						<li><a mailto="castledevup@gmail.com">{{ site.data.company.contact_email_address }}</a> </li>
 					    <li><p>{{ site.data.company.contact_phone_number }}</p> </li>
 						 <li><p>{{ site.data.company.address }}</p> </li>
-
-						<li><a href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %} Se inscreva no nosso feed!</a></li>
 					</ul>
 				</div>
 			</div>

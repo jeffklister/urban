@@ -4,8 +4,10 @@
   Publicado por {{include.post.author_staff_member}}
   {% endif %}
 
-	<span class="post-date">{{ include.post.date | date: "%B %d, %Y" }}</span>
 
+	{% if include.post.date %}
+	<span class="post-date">em {{ include.post.date | date: "%m/%d/%Y" }}</span>
+	{% endif %}
 </p>
 
 {% for category in include.post.categories %}

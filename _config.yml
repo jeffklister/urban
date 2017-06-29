@@ -1,4 +1,4 @@
-title: Castle Dev
+title: Agência CastleDev
 url: "https://www.castledevup.github.io"
 baseurl: ""
 google_analytics_key: UA-99071986-2
@@ -16,7 +16,7 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Castle Dev
+  name: CastleDev
   links:
     - https://github.com/castledevup
 

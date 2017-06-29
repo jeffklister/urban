@@ -1,4 +1,6 @@
 links:
+- name: Serviços
+  link: /servicos/
 - name: Portfólio
   link: /portfolio/
 - name: Blog

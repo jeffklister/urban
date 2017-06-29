@@ -1,6 +1,5 @@
 ---
 published: true
-layout: post
 date: 13/05/2017
 title: O que é UX e qual a sua importância?
 categories:

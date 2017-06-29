@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Aprenda a atrair mais clientes através do Inbound Marketing
 date: 27/06/2017
 categories:
@@ -9,6 +10,7 @@ categories:
 permalink: "blog/inbound-marketing/"
 author_staff_member: Matheus Seabra
 show_comments: true
+header-img: "/images/conteudo-original.jpg"
 ---
 
 O relacionamento entre empresas e consumidores vêm evoluindo muito nos últimos anos. As pessoas sabem que são "marketeadas" pela mídia. Consequentemente, empresas e pequenos empreendedores estão tendo que se adpatar a nova realidade do mercado, respondendo de forma correspondente.

@@ -1,9 +1,7 @@
 ---
-published: true
-layout: post
+title: Aumente a visibilidade do seu site no Google com o SEO
+permalink: "blog/SEO-site-no-topo/"
 date: 27/06/2017
-title: Seu site no topo: como usar o SEO para aumentar seus rankings no Google
-permalink: "/blog/SEO-ate-o-topo/"
 categories:
 - Search Engine Optimization
 - Primeira página de busca google

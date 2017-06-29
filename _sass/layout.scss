@@ -157,13 +157,13 @@ section {
 	padding: 15px 25px;
 	border-radius: 3px;
 	transition: 0.2s ease-in-out;
-
 	cursor: pointer;
 
 	&:hover {
 		text-decoration: none;
 		background: #111;
 		color: $brand-color;
+		transform: translate(25);
 		transition: .25s ease-in-out;
 	}
 

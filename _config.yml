@@ -1,12 +1,12 @@
 title: Castle Dev
 url: "https://www.castledevup.github.io"
 baseurl: ""
-google_analytics_key:
+google_analytics_key: UA-99071986-2
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: http-castledev-tk
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Criação Web e Marketing Digital.
+description: Criação Web e Marketing Digital
 
 # Author details for the jekyll-seo-tag gem
 author:

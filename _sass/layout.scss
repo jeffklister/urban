@@ -136,26 +136,34 @@ section {
 	&.alternate img {
 		padding-bottom: 25px;
 	}
+
+	&.hero-black {
+		color: $brand-color;
+		background-color: #100;
+		padding-top: 180px;
+
+	}
+
 }
 
 
 .button {
 
 	border: 2px solid #111;
-	background: transparent;
-	color: #111;
+	background: #111;
+	color: $brand-color;
 	font-size: 21px;
 	text-decoration: none;
 	padding: 15px 25px;
 	border-radius: 3px;
 	transition: 0.2s ease-in-out;
-
 	cursor: pointer;
 
 	&:hover {
 		text-decoration: none;
 		background: #111;
 		color: $brand-color;
+		transform: translate(25);
 		transition: .25s ease-in-out;
 	}
 

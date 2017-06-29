@@ -9,6 +9,7 @@ categories:
 - design
 - redesign
 author_staff_member: Andre Defremont
+permanlink: "/blog/ux-e-sua-importancia"
 show_comments: true
 ---
 

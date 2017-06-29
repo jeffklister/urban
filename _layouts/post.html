@@ -11,38 +11,33 @@ layout: page
 
 <section class="hero2 diagonal">
 	<div class="container">
-		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-			<div class="halves">
-				<div>
-					<h2>Dicas semanais de como ter uma presença web</h2>
-				</div>
-				<div>
-					<!-- <input type="text" name="first-name" placeholder="Seu Email" />
-					<input type="submit" value="Quero receber!" /> -->
 
-
-					<!-- Begin MailChimp Signup Form -->
-
-
-<div id="mc_embed_signup">
-<form action="//castledev.us16.list-manage.com/subscribe/post?u=4c6a7b6ee15e8fd0e7700919e&amp;id=3250bc1f5e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-
-	<input type="email" value="" name="EMAIL"  id="mce-EMAIL" placeholder="Seu melhor email" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-
-		<input type="hidden" name="b_4c6a7b6ee15e8fd0e7700919e_3250bc1f5e" tabindex="-1" value="">
-    <input type="submit" value="Quero receber!" name="subscribe" id="mc-embedded-subscribe">
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-
-				</div>
+		<div class="halves">
+			<div>
+				<h2>Dicas semanais de como ter uma presença web</h2>
 			</div>
+			<div>
 
-		</form>
+				<!-- Begin MailChimp Signup Form -->
+
+
+					<form action="//castledev.us16.list-manage.com/subscribe/post?u=4c6a7b6ee15e8fd0e7700919e&amp;id=3250bc1f5e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+
+							<input type="hidden" name="b_4c6a7b6ee15e8fd0e7700919e_3250bc1f5e" tabindex="-1" value="">
+
+							<input type="email" value="" name="EMAIL"  id="mce-EMAIL" placeholder="Seu melhor email" required>
+
+
+							<input type="submit" value="Quero receber!" name="subscribe" id="mc-embedded-subscribe">
+
+					</form>
+
+
+				<!--End mc_embed_signup-->
+
+			</div>
+		</div>
 	</div>
 </section>
 
@@ -52,37 +47,40 @@ layout: page
 		<h2>Próximo post</h2>
 		<div class="blog-post">
 			{% if page.next %}
-				{% include post-summary.html post=page.next %}
+			{% include post-summary.html post=page.next %}
 			{% elsif page.previous %}
-				{% include post-summary.html post=page.previous %}
+			{% include post-summary.html post=page.previous %}
 			{% endif %}
 		</div>
 	</div>
 </section>
 
 {% if site.disqus_shortname and page.show_comments %}
-	<section class="diagonal">
-		<div class="container">
-			<h2>Comentários</h2>
-			<div id="disqus_thread"></div>
-			<script>
-				/**
-				*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-				*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-				/*
-				var disqus_config = function () {
-				this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-				this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-				};
-				*/
-				(function() { // DON'T EDIT BELOW THIS LINE
-				var d = document, s = d.createElement('script');
-				s.src = '//{{ site.disqus_shortname }}.disqus.com/embed.js';
-				s.setAttribute('data-timestamp', +new Date());
-				(d.head || d.body).appendChild(s);
-				})();
-			</script>
-			<noscript>Favor ativar o JavaScript para ver os <a href="https://disqus.com/?ref_noscript">comentários.</a></noscript>
-		</div>
-	</section>
+<section class="diagonal alternate">
+	<div class="container">
+		<h2>Comentários</h2>
+		<div id="disqus_thread"></div>
+		<script>
+		/**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+
+    var disqus_config = function () {
+        this.page.url = http://castledev.tk/;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = http-castledev-tk; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() {  // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+
+        s.src = 'https://http-castledev-tk.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Favor ativar o JavaScript para ver os <a href="https://disqus.com/?ref_noscript">comentários.</a></noscript>
+</div>
+</section>
 {% endif %}

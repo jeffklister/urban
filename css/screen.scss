@@ -24,3 +24,16 @@ $section-rotation: 5deg;
 @import "navigation";
 @import "footer";
 @import "cloudcannon";
+
+section.hero-yellow, footer.hero-black {
+    background-color: #f1aa37;
+    padding-top: 180px;
+}
+section.hero-yellow p{
+    font-size: 1.4rem;
+    color: #111;
+}
+section.hero-yellow h2{
+    font-size: 3.5rem;
+    color: #111;
+}

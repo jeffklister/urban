@@ -109,8 +109,6 @@ section {
 		padding-top: 180px;
 
 
-
-
 		h2 {
 			font-size: 3.5rem;
 		}
@@ -136,29 +134,22 @@ section {
 
 
 	&.hero-black {
-
 		background-color: #100;
 		padding-top: 180px;
 
 
 
-	h2 {
-		color: $brand-color;
-		max-width: 100%;
-	}
+		h2 {
+			font-size: 3rem;
+			color: $brand-color;
+		}
 
-	h2 {
-		font-size: 3.5rem;
-	}
+		p {
+			font-size: 1.4rem;
+			color: $secondary-brand-color;
+		}
 
-	p {
-		font-size: 1.5rem;
-	}
 
-	a:not(.button) {
-		color: #111;
-		font-style: italic;
-	}
 	}
 }
 
@@ -307,4 +298,17 @@ section {
 	p {
 		color: #fefefe;
 	}
+}
+
+
+.grupo1 {
+	  position: relative;
+    height: auto;
+    margin-left: auto;
+}
+
+.grupo2 {
+	position: absolute;
+  z-index: 10;
+	margin-left: auto;
 }

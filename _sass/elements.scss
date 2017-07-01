@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300,600|Lato:400,700');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,700|Lato:400,700');
 
 html {
 	background: $html-background-color;
@@ -14,14 +14,16 @@ body {
 	font-weight: 400;
 }
 
-h1, h2 {
+h1 {
 	font-family: 'Josefin Sans', sans-serif;
 	font-weight: 600;
 }
 
-h3, h4 {
+
+
+h2, h3, h4 {
 	font-family: 'Josefin Sans', sans-serif;
-	font-weight: 600;
+	font-weight: 400;
 }
 
 a {

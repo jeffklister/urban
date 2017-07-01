@@ -17,14 +17,14 @@
       social_icon: Facebook
       new_window: true
     - name: Twitter
-      link:
+      link: https://twitter.com/castle_dev
       social_icon: Twitter
       new_window: true
     - name: Google+
-      link:
+      link: https://plus.google.com/u/1/100637249079428142820
       social_icon: Google Plus
       new_window: true
     - name: LinkedIn
-      link:
+      link: https://www.linkedin.com/company/castledev
       social_icon: LinkedIn
       new_window: true

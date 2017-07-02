@@ -17,7 +17,7 @@
                 display: block;
                 z-index: 99999;
                 height: 100vh;
-                background: url('../images/LOAD.gif') center center no-repeat;
+                background: url('./images/LOAD.gif') center center no-repeat;
                 background-color: #f1a936;
                 position: fixed;
                 top: 0;
